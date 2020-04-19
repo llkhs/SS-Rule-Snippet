@@ -1,5 +1,4 @@
 [Rule]
-
 DOMAIN-SUFFIX,viu.tv,GlobalTV
 USER-AGENT,Viu*,GlobalTV
 USER-AGENT,ViuTV*,GlobalTV
