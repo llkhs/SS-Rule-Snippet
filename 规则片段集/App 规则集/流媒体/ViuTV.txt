@@ -1,0 +1,10 @@
+[Rule]
+DOMAIN-SUFFIX,viu.tv,GlobalTV
+USER-AGENT,Viu*,GlobalTV
+USER-AGENT,ViuTV*,GlobalTV
+DOMAIN-SUFFIX,viu.com,GlobalTV
+DOMAIN-SUFFIX,viu.tv,GlobalTV
+DOMAIN,api.viu.now.com,GlobalTV
+DOMAIN,d1k2us671qcoau.cloudfront.net,GlobalTV
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,GlobalTV
+DOMAIN,dfp6rglgjqszk.cloudfront.net,GlobalTV
